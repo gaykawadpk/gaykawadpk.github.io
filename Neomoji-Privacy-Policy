@@ -1,1 +1,137 @@
-Neomoji Privacy Policy
+# 🛡️ Privacy Policy for Neomoji - Emoji Creator App
+
+**Effective date:** [Insert date]
+**Last updated:** [Insert date]
+
+This Privacy Policy describes how **Emoji Creator** (“we,” “our,” or “us”) collects, uses, and protects information when you use our mobile application (“App”).
+
+By using Emoji Creator, you agree to the collection and use of information as outlined below.
+
+---
+
+## 1. Information We Collect
+
+We collect limited information necessary to provide and improve the app’s features.
+
+### a. User-Generated Content
+
+* The emojis, stickers, or images you create or import are stored **locally on your device**.
+* If you choose to back up, share, or sync your creations, they may also be **securely uploaded to our server**.
+* We do not access or share your files without your consent.
+
+### b. Device and Usage Information
+
+We may collect anonymous technical data such as:
+
+* Device model and operating system version
+* App version, crash logs, and usage statistics
+* Non-personal identifiers like **Advertising ID** (for ads personalization)
+
+This helps us improve app performance and compatibility.
+
+### c. Advertising Data
+
+We use **Google AdMob** and similar services to display ads. These networks may collect:
+
+* Advertising ID
+* Approximate location (for ad relevance)
+* App usage and interaction data
+
+You can opt out of personalized ads anytime in your device’s ad settings.
+
+---
+
+## 2. Permissions We Use and Why
+
+Our app requests the following Android permissions only to enable core functionality:
+
+| Permission                                                                                                              | Purpose                                                                                                                           |
+| ----------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| `INTERNET`                                                                                                              | To show ads, connect to servers for emoji backup, and update content.                                                             |
+| `READ_MEDIA_IMAGES`, `READ_MEDIA_VIDEO`, `READ_MEDIA_AUDIO`, `READ_MEDIA_VISUAL_USER_SELECTED`, `READ_EXTERNAL_STORAGE` | To allow you to import or use your own photos, videos, or media in emoji creation. Access is limited to user-selected files only. |
+| `WRITE_EXTERNAL_STORAGE`                                                                                                | To save emoji creations to your device gallery (used only on older Android versions).                                             |
+| `ACCESS_MEDIA_LOCATION`                                                                                                 | To access location metadata embedded in selected media files (EXIF data) — only if you choose to import such media.               |
+| `VIBRATE`                                                                                                               | To provide optional haptic feedback during emoji editing or saving.                                                               |
+
+We never access, collect, or share files without user action or permission.
+
+---
+
+## 3. How We Use the Information
+
+We use the collected data to:
+
+* Enable emoji creation, saving, and sharing features.
+* Provide app functionality and cloud backup.
+* Display relevant ads to keep the app free.
+* Improve performance and troubleshoot issues.
+* Maintain app security and prevent abuse.
+
+We **do not sell, rent, or trade** your personal data.
+
+---
+
+## 4. Data Storage and Retention
+
+* **Local data:** Your emoji creations remain stored on your device and can be deleted anytime through the app or by uninstalling it.
+* **Server data:** If you choose to save creations online, they are stored securely on our cloud servers and deleted upon your request or account deletion.
+* We retain data only as long as needed for app functionality.
+
+---
+
+## 5. Sharing Your Information
+
+We only share limited information in the following cases:
+
+* **With service providers:** e.g., AdMob, Firebase, or cloud storage providers to enable ads and backup features.
+* **When required by law:** If we must respond to lawful requests by authorities.
+
+All partners comply with applicable data protection regulations.
+
+Third-party privacy policies:
+
+* [Google AdMob Privacy & Terms](https://policies.google.com/technologies/ads)
+* [Firebase Privacy Policy](https://firebase.google.com/support/privacy)
+
+---
+
+## 6. Your Privacy Rights
+
+Depending on your region, you may have the right to:
+
+* Access or delete your stored data.
+* Opt out of personalized advertising.
+* Withdraw consent to data collection.
+
+To exercise these rights, contact us at **[your contact email]**.
+You can also delete all locally stored data by uninstalling the app.
+
+---
+
+## 7. Data Security
+
+We use industry-standard measures to protect stored data, including encryption in transit and access control.
+While we strive for maximum protection, no system is 100% secure, so we encourage users to use caution when sharing media.
+
+---
+
+## 8. Children’s Privacy
+
+Emoji Creator is intended for general audiences and is **not directed toward children under 13** (or under 16 in the EU).
+We do not knowingly collect personal data from minors.
+If a parent or guardian believes that their child has provided personal data, they can contact us to request deletion.
+
+---
+
+## 9. Changes to This Policy
+
+We may update this Privacy Policy from time to time.
+Any updates will be reflected by a revised “Last Updated” date above.
+Significant changes will be notified through the app or our website.
+
+---
+
+## 10. Contact Us
+
+If you have any questions, concerns, or requests related to this Privacy Policy, please contact us at:
+📧 neomoji11@gmail.com
